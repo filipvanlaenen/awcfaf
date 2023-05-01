@@ -1,2 +1,2 @@
-# awcfaf
-ASAPOP Website Configuration Files for Africa
+# ASAPOP Website Configuration Files for Africa
+
