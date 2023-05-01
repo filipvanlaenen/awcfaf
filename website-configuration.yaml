@@ -1,0 +1,27 @@
+---
+areaConfigurations:
+- areaCode: "za"
+  csvConfiguration:
+    electoralListIds:
+    - "ZA001"
+    - "ZA002"
+    - "ZA003"
+    - "ZA004"
+    - "ZA005"
+    - "ZA006"
+    - "ZA007"
+  elections:
+    national:
+      dates:
+        24: "2004-04-14"
+        25: "2009-04-22"
+        26: "2014-05-07"
+        27: "2019-05-08"
+        28: "≤2024-05"
+  translations:
+    de: "Südafrika"
+    en: "South Africa"
+    eo: "Sud-Afriko"
+    fr: "Afrique du Sud"
+    nl: "Zuid-Afrika"
+    no: "Sør-Afrika"
