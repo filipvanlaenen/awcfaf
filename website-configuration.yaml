@@ -9,7 +9,7 @@ areaConfigurations:
         8: "2013-11-23+2013-12-21"
         9: "2018-09-01+2018-09-15"
         10: "2023-05-13+2023-05-27"
-    president:
+    presidential:
       dates:
         7: "2003-11-07"
         8: "2007-03-11+2007-03-25"
@@ -24,6 +24,29 @@ areaConfigurations:
     fr: "Mauritanie"
     nl: "Mauritanië"
     no: "Mauritania"
+- areaCode: "sl"
+  elections:
+    national:
+      dates:
+        15: "2002-05-14"
+        16: "2007-08-11"
+        17: "2012-11-17"
+        18: "2018-03-07"
+        19: "2023-06-24"
+    presidential:
+      dates:
+        3: "2002-05-14"
+        4: "2007-08-11+2007-09-08"
+        5: "2012-11-17"
+        6: "2018-03-07+2018-03-31"
+        7: "2023-06-24"
+  translations:
+    de: "Sierra Leone"
+    en: "Sierra Leone"
+    eo: "Sieraleono"
+    fr: "Sierra Leone"
+    nl: "Sierra Leone"
+    no: "Sierra Leone"
 - areaCode: "za"
   csvConfiguration:
     electoralListIds:
