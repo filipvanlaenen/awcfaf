@@ -1,6 +1,15 @@
 ---
 areaConfigurations:
 - areaCode: "ao"
+  csvConfiguration:
+    electoralListIds:
+    - "AO001"
+    - "AO002"
+    - "AO003"
+    - "AO004"
+    - "AO005"
+    - "AO006"
+    - "AO007"
   elections:
     national:
       dates:
