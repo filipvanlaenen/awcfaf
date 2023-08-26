@@ -50,6 +50,29 @@ areaConfigurations:
     fr: "Gabon"
     nl: "Gabon"
     no: "Gabon"
+- areaCode: "mg"
+  elections:
+    national:
+      dates:
+        13: "2002-12-15"
+        14: "2007-09-23"
+        15: "2013-12-20"
+        16: "2019-05-27"
+        17: "≤2024-05"
+    presidential:
+      dates:
+        7: "2001-12-16"
+        8: "2006-12-03"
+        9: "2013-10-25+2013-12-20"
+        10: "2018-11-07+2018-12-19"
+        11: "2023-11-09"
+  translations:
+    de: "Madagaskar"
+    en: "Madagascar"
+    eo: "Madagaskaro"
+    fr: "Madagascar"
+    nl: "Madagaskar"
+    no: "Madagaskar"
 - areaCode: "mr"
   elections:
     national:
