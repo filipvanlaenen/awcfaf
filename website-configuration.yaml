@@ -73,6 +73,29 @@ areaConfigurations:
     fr: "Madagascar"
     nl: "Madagaskar"
     no: "Madagaskar"
+- areaCode: "ml"
+  elections:
+    national:
+      dates:
+        14: "2002-07-14"
+        15: "2007-07-01+2007-07-22"
+        16: "2013-11-24+2013-12-15"
+        17: "2020-03-28+2020-04-19"
+        18: "2023-10-29"
+    presidential:
+      dates:
+        5: "2002-04-28+2002-05-12"
+        6: "2007-04-29"
+        7: "2013-07-28+2013-08-11"
+        8: "2018-07-29+2018-08-12"
+        9: "2024-02-04"
+  translations:
+    de: "Mali"
+    en: "Mali"
+    eo: "Malio"
+    fr: "Mali"
+    nl: "Mali"
+    no: "Mali"
 - areaCode: "mr"
   elections:
     national:
