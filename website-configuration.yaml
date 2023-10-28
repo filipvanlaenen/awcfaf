@@ -80,6 +80,29 @@ areaConfigurations:
     fr: "Gabon"
     nl: "Gabon"
     no: "Gabon"
+- areaCode: "lr"
+  elections:
+    national:
+      dates:
+        51: "2005-10-11"
+        52: "2011-10-11"
+        53: "2014-12-20"
+        54: "2017-10-10"
+        55: "2020-12-08"
+        56: "2023-10-10"
+    presidential:
+      dates:
+        49: "2005-10-11+2005-11-08"
+        50: "2011-10-11+2011-11-08"
+        51: "2017-10-10+2017-12-26"
+        52: "2023-10-10+2023-11-07"
+  translations:
+    de: "Liberia"
+    en: "Liberia"
+    eo: "Liberio"
+    fr: "Liberia"
+    nl: "Liberia"
+    no: "Liberia"
 - areaCode: "mg"
   elections:
     national:
@@ -150,29 +173,6 @@ areaConfigurations:
     fr: "Mauritanie"
     nl: "Mauritanië"
     no: "Mauritania"
-- areaCode: "lr"
-  elections:
-    national:
-      dates:
-        51: "2005-10-11"
-        52: "2011-10-11"
-        53: "2014-12-20"
-        54: "2017-10-10"
-        55: "2020-12-08"
-        56: "2023-10-10"
-    presidential:
-      dates:
-        49: "2005-10-11+2005-11-08"
-        50: "2011-10-11+2011-11-08"
-        51: "2017-10-10+2017-12-26"
-        52: "2023-10-10"
-  translations:
-    de: "Liberia"
-    en: "Liberia"
-    eo: "Liberio"
-    fr: "Liberia"
-    nl: "Liberia"
-    no: "Liberia"
 - areaCode: "sl"
   elections:
     national:
