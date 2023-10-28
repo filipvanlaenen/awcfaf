@@ -27,6 +27,27 @@ areaConfigurations:
     fr: "Angola"
     nl: "Angola"
     no: "Angola"
+- areaCode: "cd"
+  elections:
+    national:
+      dates:
+        8: "2006-07-30"
+        9: "2011-11-28"
+        10: "2018-12-30"
+        11: "2023-12-20"
+    presidential:
+      dates:
+        4: "2006-07-30"
+        5: "2011-11-28"
+        6: "2018-12-30"
+        7: "2023-12-20"
+  translations:
+    de: "Demokratische Republik Kongo"
+    en: "Democratic Republic of the Congo"
+    eo: "Demokratia Respubliko Kongo"
+    fr: "République démocratique du Congo"
+    nl: "Democratische Republiek Congo"
+    no: "Den demokratiske republikken Kongo"
 - areaCode: "eg"
   elections:
     national:
