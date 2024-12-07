@@ -253,6 +253,8 @@ areaConfigurations:
     - "ZA007"
     - "ZA008"
     - "ZA009"
+    - "ZA010"
+    - "ZA011"
   elections:
     national:
       dates:
