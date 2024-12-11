@@ -35,12 +35,14 @@ areaConfigurations:
         9: "2011-11-28"
         10: "2018-12-30"
         11: "2023-12-20"
+        12: "≤2028-12"
     presidential:
       dates:
         4: "2006-07-30"
         5: "2011-11-28"
         6: "2018-12-30"
         7: "2023-12-20"
+        8: "≤2028-12"
   translations:
     de: "Demokratische Republik Kongo"
     en: "Democratic Republic of the Congo"
