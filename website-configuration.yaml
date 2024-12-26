@@ -230,6 +230,7 @@ areaConfigurations:
         17: "2012-11-17"
         18: "2018-03-07"
         19: "2023-06-24"
+        20: "≤2028-06"
     presidential:
       dates:
         3: "2002-05-14"
@@ -237,6 +238,7 @@ areaConfigurations:
         5: "2012-11-17"
         6: "2018-03-07+2018-03-31"
         7: "2023-06-24"
+        8: "≤2028-06"
   translations:
     de: "Sierra Leone"
     en: "Sierra Leone"
