@@ -312,6 +312,7 @@ areaConfigurations:
         30: "2013-07-31"
         31: "2018-07-30"
         32: "2023-08-23"
+        33: "≤2028-08"
     presidential:
       dates:
 #       3: "2002-03-09/2002-03-10/2002-03-11"
@@ -320,6 +321,7 @@ areaConfigurations:
         5: "2013-07-31"
         6: "2018-07-30"
         7: "2023-08-23"
+        8: "≤2028-08"
   translations:
     de: "Simbabwe"
     en: "Zimbabwe"
