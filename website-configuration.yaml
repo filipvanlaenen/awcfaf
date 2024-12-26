@@ -299,7 +299,8 @@ areaConfigurations:
         25: "2009-04-22"
         26: "2014-05-07"
         27: "2019-05-08"
-        28: "≤2024-05"
+        28: "2024-05-29"
+        29: "≤2029-05"
   translations:
     de: "Südafrika"
     en: "South Africa"
