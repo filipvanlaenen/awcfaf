@@ -29,6 +29,29 @@ areaConfigurations:
     fr: "Angola"
     nl: "Angola"
     no: "Angola"
+- areaCode: "bi"
+  elections:
+    national:
+      dates:
+        7: "2005-07-04"
+        8: "2010-07-23"
+        9: "2015-06-29"
+        10: "2020-05-20"
+        11: "2025-06-05"
+    presidential:
+      dates:
+        3: "2005-08-19"
+        4: "2010-06-28"
+        5: "2015-07-21"
+        6: "2020-05-20"
+        7: "≈2027-05"
+  translations:
+    de: "Burundi"
+    en: "Burundi"
+    eo: "Burundo"
+    fr: "Burundi"
+    nl: "Burundi"
+    no: "Burundi"
 - areaCode: "cd"
   elections:
     national:
