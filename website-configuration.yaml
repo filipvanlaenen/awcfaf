@@ -1,4 +1,6 @@
 ---
+id: AWCFAF
+name: Africa
 areaConfigurations:
 - areaCode: "ao"
   csvConfiguration:
