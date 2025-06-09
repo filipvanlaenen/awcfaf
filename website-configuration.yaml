@@ -310,17 +310,17 @@ areaConfigurations:
 - areaCode: "za"
   csvConfiguration:
     electoralListIds:
-    - "ZA001"
-    - "ZA002"
-    - "ZA003"
-    - "ZA004"
-    - "ZA005"
-    - "ZA006"
-    - "ZA007"
-    - "ZA008"
-    - "ZA009"
-    - "ZA010"
-    - "ZA011"
+    - "ZA191201"
+    - "ZA200001"
+    - "ZA201301"
+    - "ZA197501"
+    - "ZA199401"
+    - "ZA202001"
+    - "ZA199301"
+    - "ZA202301"
+    - "ZA201303"
+    - "ZA200801"
+    - "ZA201302"
   elections:
     national:
       dates:
