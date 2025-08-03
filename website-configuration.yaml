@@ -76,6 +76,28 @@ areaConfigurations:
     fr: "République démocratique du Congo"
     nl: "Democratische Republiek Congo"
     no: "Den demokratiske republikken Kongo"
+- areaCode: "cm"
+  elections:
+    national:
+      dates:
+        9: "2002-06-30"
+        10: "2007-07-22"
+        11: "2013-09-30"
+        12: "2020-02-09"
+        12: "≤2025"
+    presidential:
+      dates:
+        9: "2004-10-11"
+        10: "2011-10-09"
+        11: "2018-10-07"
+        12: "2025-10-12"
+  translations:
+    de: "Kamerun"
+    en: "Kameruno"
+    eo: "Cameroon"
+    fr: "Cameroun"
+    nl: "Kameroen"
+    no: "Kamerun"
 - areaCode: "eg"
   elections:
     national:
