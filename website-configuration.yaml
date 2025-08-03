@@ -76,6 +76,29 @@ areaConfigurations:
     fr: "République démocratique du Congo"
     nl: "Democratische Republiek Congo"
     no: "Den demokratiske republikken Kongo"
+- areaCode: "ci"
+  elections:
+    national:
+      dates:
+        14: "2000-12-10"
+        15: "2011-12-11"
+        16: "2016-12-18"
+        17: "2021-03-06"
+        18: "≤2026-03"
+    presidential:
+      dates:
+        9: "2000-10-22"
+        10: "2010-10-31+2010-11-28"
+        11: "2015-10-25"
+        12: "2020-10-31"
+        13: "2025-10-25"
+  translations:
+    de: "Elfenbeinküste"
+    en: "Ivory Coast"
+    eo: "Ebur-Bordo"
+    fr: "Côte d’Ivoire"
+    nl: "Ivoorkust"
+    no: "Elfenbenskysten"
 - areaCode: "cm"
   elections:
     national:
@@ -84,7 +107,7 @@ areaConfigurations:
         10: "2007-07-22"
         11: "2013-09-30"
         12: "2020-02-09"
-        12: "≤2025"
+        13: "≤2025"
     presidential:
       dates:
         9: "2004-10-11"
