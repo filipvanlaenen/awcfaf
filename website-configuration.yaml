@@ -178,6 +178,31 @@ areaConfigurations:
     fr: "Gabon"
     nl: "Gabon"
     no: "Gabon"
+- areaCode: "gw"
+  elections:
+    national:
+      dates:
+        9: "2004-03-28"
+        10: "2008-11-16"
+        11: "2014-04-13"
+        12: "2019-03-10"
+        13: "2023-06-04"
+        14: "2025-11-23"
+    presidential:
+      dates:
+        3: "2005-06-19+2005-07-24"
+        4: "2009-06-28+2009-07-26"
+        5: "2012-03-18+2012-04-29"
+        6: "2014-04-13+2014-05-18"
+        7: "2019-11-24+2019-12-29"
+        8: "2025-11-23"
+  translations:
+    de: "Guinea-Bissau"
+    en: "Guinea-Bissau"
+    eo: "Gvineo-Bisaŭo"
+    fr: "Guinée-Bissau"
+    nl: "Guinee-Bissau"
+    no: "Guinea-Bissau"
 - areaCode: "km"
   elections:
     national:
