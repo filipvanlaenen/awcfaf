@@ -355,6 +355,19 @@ areaConfigurations:
     nl: "Malawi"
     no: "Malawi"
 - areaCode: "ng"
+  csvConfiguration:
+    electoralListIds:
+    - "NG201301"
+    - "NG199801"
+    - "NG200201"
+    - "NG201901"
+    - "NG200202"
+    - "NG200501"
+    - "NG199802"
+    - "NG200502"
+    - "NG197801"
+    - "NG198901"
+    - "NG200101"
   elections:
     national:
       dates:
