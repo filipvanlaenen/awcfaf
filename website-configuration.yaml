@@ -354,6 +354,36 @@ areaConfigurations:
     fr: "Malawi"
     nl: "Malawi"
     no: "Malawi"
+- areaCode: "ng"
+  elections:
+    national:
+      dates:
+        15: "2003-04-12"
+        16: "2007-04-21"
+        17: "2011-04-09"
+#       18: "2015-03-29/2015-03-29"
+        18: "2015-03-29"
+        19: "2019-02-23"
+        20: "2023-02-25"
+        21: "≤2027-02"
+    presidential:
+      dates:
+        5: "2003-04-19"
+        6: "2007-04-21"
+        7: "2011-04-16"
+#       8: "2015-03-29/2015-03-29"
+        8: "2015-03-29"
+#       9: "2019-02-23/2019-02-24"
+        9: "2019-02-23"
+        10: "2023-02-25"
+        11: "≈2027-02"
+  translations:
+    de: "Nigeria"
+    en: "Nigeria"
+    eo: "Niĝerio"
+    fr: "Nigeria"
+    nl: "Nigeria"
+    no: "Nigeria"
 - areaCode: "sc"
   elections:
     national:
