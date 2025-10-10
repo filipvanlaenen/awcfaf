@@ -76,6 +76,29 @@ areaConfigurations:
     fr: "République démocratique du Congo"
     nl: "Democratische Republiek Congo"
     no: "Den demokratiske republikken Kongo"
+- areaCode: "cf"
+  elections:
+    national:
+      dates:
+        10: "2005-03-13+2005-05-08"
+        11: "2011-01-23+2011-03-27"
+        12: "(2015-12-30)+2026-02-14+2026-03-31"
+        13: "2020-12-27+2021-03-14"
+        14: "2025-12-28"
+    presidential:
+      dates:
+        6: "2005-03-13+2005-05-08"
+        7: "2011-01-23"
+        8: "2015-12-30+2016-02-14"
+        9: "2020-12-27"
+        10: "2025-12-28"
+  translations:
+    de: "Zentralafrikanische Republik"
+    en: "Central African Republic"
+    eo: "Centr-Afrika Respubliko"
+    fr: "République centrafricaine"
+    nl: "Centraal-Afrikaanse Republiek"
+    no: "Den sentralafrikanske republikk"
 - areaCode: "ci"
   elections:
     national:
