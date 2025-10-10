@@ -201,6 +201,28 @@ areaConfigurations:
     fr: "Gabon"
     nl: "Gabon"
     no: "Gabon"
+- areaCode: "gn"
+  elections:
+    national:
+      dates:
+        10: "2002-06-30"
+        11: "2013-09-28"
+        12: "2020-03-22"
+        13: "≈2026"
+    presidential:
+      dates:
+        7: "2003-12-21"
+        8: "2010-06-27+2010-11-07"
+        9: "2015-10-11"
+        10: "2020-10-18"
+        11: "2025-12-28"
+  translations:
+    de: "Guinea"
+    en: "Guinea"
+    eo: "Gvineo"
+    fr: "Guinée"
+    nl: "Guinee"
+    no: "Guinea"
 - areaCode: "gw"
   elections:
     national:
