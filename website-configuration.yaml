@@ -53,6 +53,32 @@ areaConfigurations:
     fr: "Burundi"
     nl: "Burundi"
     no: "Burundi"
+- areaCode: "bj"
+  elections:
+    national:
+      dates:
+        19: "2003-03-30"
+        20: "2007-03-31"
+        21: "2011-04-30"
+        22: "2015-04-26"
+        23: "2019-04-28"
+        24: "2023-01-08"
+        25: "2026-01-11"
+    presidential:
+      dates:
+        7: "2001-03-04+2001-03-18"
+        8: "2006-03-05+2006-03-19"
+        9: "2011-03-13"
+        10: "2016-03-06+2016-03-20"
+        11: "2021-04-11"
+        12: "2026-04-12"
+  translations:
+    de: "Benin"
+    en: "Benin"
+    eo: "Benino"
+    fr: "Bénin"
+    nl: "Benin"
+    no: "Benin"
 - areaCode: "cd"
   elections:
     national:
