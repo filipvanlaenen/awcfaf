@@ -578,6 +578,31 @@ areaConfigurations:
     fr: "Tanzanie"
     nl: "Tanzania"
     no: "Tanzania"
+- areaCode: "ug"
+  elections:
+    national:
+      dates:
+        8: "2001-06-26"
+        9: "2006-02-23"
+        10: "2011-02-18"
+        11: "2016-02-18"
+        12: "2021-01-14"
+        13: "2026-01-12"
+    presidential:
+      dates:
+        2: "2001-06-26"
+        3: "2006-02-23"
+        4: "2011-02-18"
+        5: "2016-02-18"
+        6: "2021-01-14"
+        7: "2026-01-12"
+  translations:
+    de: "Uganda"
+    en: "Uganda"
+    eo: "Ugando"
+    fr: "Ouganda"
+    nl: "Oeganda"
+    no: "Uganda"
 - areaCode: "za"
   csvConfiguration:
     electoralListIds:
