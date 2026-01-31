@@ -112,6 +112,7 @@ areaConfigurations:
         12: "(2015-12-30)+2026-02-14+2026-03-31"
         13: "2020-12-27+2021-03-14"
         14: "2025-12-28"
+        15: "≤2030-12"
     presidential:
       dates:
         6: "2005-03-13+2005-05-08"
@@ -119,6 +120,7 @@ areaConfigurations:
         8: "2015-12-30+2016-02-14"
         9: "2020-12-27"
         10: "2025-12-28"
+        11: "≈2032-12"
   translations:
     de: "Zentralafrikanische Republik"
     en: "Central African Republic"
