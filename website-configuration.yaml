@@ -290,6 +290,7 @@ areaConfigurations:
         12: "2019-03-10"
         13: "2023-06-04"
         14: "2025-11-23"
+        15: "2026-12-06"
     presidential:
       dates:
         3: "2005-06-19+2005-07-24"
@@ -298,6 +299,7 @@ areaConfigurations:
         6: "2014-04-13+2014-05-18"
         7: "2019-11-24+2019-12-29"
         8: "2025-11-23"
+        9: "2026-12-06"
   translations:
     de: "Guinea-Bissau"
     en: "Guinea-Bissau"
