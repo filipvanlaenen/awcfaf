@@ -200,6 +200,30 @@ areaConfigurations:
     fr: "Cameroun"
     nl: "Kameroen"
     no: "Kamerun"
+- areaCode: "dj"
+  elections:
+    national:
+      dates:
+        15: "2003-01-10"
+        16: "2008-02-08"
+        17: "2013-02-22"
+        18: "2018-02-23"
+        19: "2023-02-24"
+        20: "≤2028-02"
+    presidential:
+      dates:
+        5: "2005-04-08"
+        6: "2011-04-08"
+        7: "2016-04-08"
+        8: "2021-04-09"
+        9: "2026-04-10"
+  translations:
+    de: "Dschibuti"
+    en: "Djibouti"
+    eo: "Ĝibutio"
+    fr: "Djibouti"
+    nl: "Djibouti"
+    no: "Djibouti"
 - areaCode: "eg"
   elections:
     national:
