@@ -283,6 +283,23 @@ areaConfigurations:
     fr: "Égypt"
     nl: "Egypte"
     no: "Egypt"
+- areaCode: "et"
+  elections:
+    national:
+      dates:
+        9: "2000-05-14+2000-08-31"
+        10: "2005-05-15"
+        11: "2010-05-23"
+        12: "2015-05-24"
+        13: "2021-06-21"
+        14: "2026-06-01"
+  translations:
+    de: "Äthiopien"
+    en: "Ethiopia"
+    eo: "Etiopio"
+    fr: "Éthiopie"
+    nl: "Ethiopië"
+    no: "Etiopia"
 - areaCode: "ga"
   elections:
     national:
