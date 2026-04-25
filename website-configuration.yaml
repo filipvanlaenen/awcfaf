@@ -278,6 +278,63 @@ areaConfigurations:
     fr: "Djibouti"
     nl: "Djibouti"
     no: "Djibouti"
+- areaCode: "dz"
+  electedBodies:
+  - id: "pna"
+    electionDates:
+    - "1977"
+    - "1982"
+    - "1987"
+    - "1991"
+    - "1997"
+    - "2002-05-30"
+    - "2007-05-17"
+    - "2012-05-10"
+    - "2017-05-04"
+    - "2021-06-12"
+    - "2026-07-02"
+    properNames:
+      ar: "المجلس الشعبي الوطني"
+      ber: "ⴰⵙⵇⴰⵎⵓ ⴰⵖⴻⵔⴼⴰⵏ ⴰⵖⴻⵍⵏⴰⵡ"
+    translatedNames:
+      de: "Nationale Volksversammlung"
+      en: "Peoplen’s National Assembly"
+      eo: "Popola Nacia Asembleo"
+      fr: "Assemblée populaire nationale"
+      nl: "Assemblée populaire nationale"
+      no: "Folkets nasjonalforsamling"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1963"
+    - "1976"
+    - "1979"
+    - "1984"
+    - "1988"
+    - "1995"
+    - "1999"
+    - "2004-04-08"
+    - "2009-04-09"
+    - "2014-04-17"
+    - "2019-12-12"
+    - "2024-09-07"
+    - "≈2029-09"
+    properNames:
+      ar: "رئيس"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
+  translations:
+    de: "Algerien"
+    en: "Algeria"
+    eo: "Alĝerio"
+    fr: "Algérie"
+    nl: "Algerije"
+    no: "Algerie"
 - areaCode: "eg"
   elections:
     national:
@@ -303,7 +360,7 @@ areaConfigurations:
         13: "2018-03-28"
 #       14: "2023-12-10/2023-12-11/2023-12-12"
         14: "2023-12-12"
-        15: "≤2029-12"
+        15: "≈2029-12"
   translations:
     de: "Ägypten"
     en: "Egypt"
