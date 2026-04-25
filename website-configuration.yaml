@@ -312,15 +312,24 @@ areaConfigurations:
     nl: "Egypte"
     no: "Egypt"
 - areaCode: "et"
-  elections:
-    national:
-      dates:
-        9: "2000-05-14+2000-08-31"
-        10: "2005-05-15"
-        11: "2010-05-23"
-        12: "2015-05-24"
-        13: "2021-06-21"
-        14: "2026-06-01"
+  electedBodies:
+  - id: "hpr"
+    electionDates:
+    - "2000-05-14+2000-08-31"
+    - "2005-05-15"
+    - "2010-05-23"
+    - "2015-05-24"
+    - "2021-06-21"
+    - "2026-06-01"
+    properNames:
+      am: "የሕዝብ ተወካዮች ምክር ቤት"
+    translatedNames:
+      de: "Volksrepräsentantenhaus"
+      en: "House of Peoples’ Representatives"
+      eo: "Domo de Popolaj Reprezentantoj"
+      fr: "Chambre des représentants des peuples"
+      nl: "Huis van Volksafgevaardigden"
+      no: "Folkerepresentantenes hus"
   translations:
     de: "Äthiopien"
     en: "Ethiopia"
