@@ -755,6 +755,56 @@ areaConfigurations:
     fr: "Sierra Leone"
     nl: "Sierra Leone"
     no: "Sierra Leone"
+- areaCode: "st"
+  electedBodies:
+  - id: "na"
+    electionDates:
+    - "1991"
+    - "1994"
+    - "1998"
+    - "2002-03-03"
+    - "2006-03-26"
+    - "2010-08-01"
+    - "2014-10-12"
+    - "2018-10-07"
+    - "2022-09-25"
+    - "2026-09-27"
+    properNames:
+      pt: "Assembleia Nacional"
+    translatedNames:
+      de: "Nationalversammlung"
+      en: "National Assembly"
+      eo: "Nacia Asembleo"
+      fr: "Assemblée nationale"
+      nl: "Nationale Vergadering"
+      no: "Nasjonalforsamling"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1991"
+    - "1996"
+    - "2001-07-29"
+    - "2006-07-30"
+    - "2011-07-17+2011-08-07"
+    - "2016-07-17+2016-08-07"
+    - "2021-07-18+2021-09-05"
+    - "2026-07-19"
+    properNames:
+      pt: "Presidente"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
+  translations:
+    de: "São Tomé und Príncipe"
+    en: "São Tomé and Príncipe"
+    eo: "Santomeo kaj Principeo"
+    fr: "Sao Tomé-et-Principe"
+    nl: "Sao Tomé en Principe"
+    no: "São Tomé og Príncipe"
 - areaCode: "td"
   elections:
     national:
