@@ -298,10 +298,10 @@ areaConfigurations:
       ber: "ⴰⵙⵇⴰⵎⵓ ⴰⵖⴻⵔⴼⴰⵏ ⴰⵖⴻⵍⵏⴰⵡ"
     translatedNames:
       de: "Nationale Volksversammlung"
-      en: "Peoplen’s National Assembly"
+      en: "People’s National Assembly"
       eo: "Popola Nacia Asembleo"
       fr: "Assemblée populaire nationale"
-      nl: "Assemblée populaire nationale"
+      nl: "Nationale Volksvergadering"
       no: "Folkets nasjonalforsamling"
   electedOffices:
   - id: "pr"
