@@ -255,22 +255,50 @@ areaConfigurations:
     nl: "Kaapverdië"
     no: "Kapp Verde"
 - areaCode: "dj"
-  elections:
-    national:
-      dates:
-        15: "2003-01-10"
-        16: "2008-02-08"
-        17: "2013-02-22"
-        18: "2018-02-23"
-        19: "2023-02-24"
-        20: "≤2028-02"
-    presidential:
-      dates:
-        5: "2005-04-08"
-        6: "2011-04-08"
-        7: "2016-04-08"
-        8: "2021-04-09"
-        9: "2026-04-10"
+  electedBodies:
+  - id: "na"
+    electionDates:
+    - "1982"
+    - "1987"
+    - "1992"
+    - "1997"
+    - "2003-01-10"
+    - "2008-02-08"
+    - "2013-02-22"
+    - "2018-02-23"
+    - "2023-02-24"
+    - "≤2028-02"
+    properNames:
+      ar: "الجمعية الوطنية"
+      fr: "Assemblée nationale"
+    translatedNames:
+      de: "Nationalversammlung"
+      en: "National Assembly"
+      eo: "Nacia Asembleo"
+      nl: "Nationale Vergadering"
+      no: "Nasjonalforsamling"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1981"
+    - "1987"
+    - "1993"
+    - "1999"
+    - "2005-04-08"
+    - "2011-04-08"
+    - "2016-04-08"
+    - "2021-04-09"
+    - "2026-04-10"
+    - "≈2031-04"
+    properNames:
+      ar: "رئيس"
+      fr: "Président"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      nl: "President"
+      no: "President"
   translations:
     de: "Dschibuti"
     en: "Djibouti"
