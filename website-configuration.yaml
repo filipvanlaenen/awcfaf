@@ -218,6 +218,7 @@ areaConfigurations:
     - "2016-03-20"
     - "2021-04-18"
     - "2026-05-17"
+    - "≤2031-05"
     properNames:
       pt: "Assembleia Nacional"
     translatedNames:
