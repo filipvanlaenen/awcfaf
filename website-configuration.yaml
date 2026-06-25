@@ -407,6 +407,7 @@ areaConfigurations:
     - "2015-05-24"
     - "2021-06-21"
     - "2026-06-01"
+    - "≤2031-06"
     properNames:
       am: "የሕዝብ ተወካዮች ምክር ቤት"
     translatedNames:
