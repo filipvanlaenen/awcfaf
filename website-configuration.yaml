@@ -997,6 +997,7 @@ areaConfigurations:
     - "2016-08-11"
     - "2021-08-12"
     - "2026-08-13"
+    - "≤2031-08"
     properNames:
       en: "National Assembly"
     translatedNames:
@@ -1023,6 +1024,7 @@ areaConfigurations:
     - "2016-08-11"
     - "2021-08-12"
     - "2026-08-13"
+    - "≈2031-08"
     properNames:
       en: "President"
     translatedNames:
