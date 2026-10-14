@@ -879,6 +879,50 @@ areaConfigurations:
     fr: "Sierra Leone"
     nl: "Sierra Leone"
     no: "Sierra Leone"
+- areaCode: "ss"
+  electedBodies:
+  - id: "nla"
+    electionDates:
+    - "2026-12-22"
+    properNames:
+      en: "National Legislative Assembly"
+    translatedNames:
+      de: "Nationale Legislativversammlung"
+      eo: "Nacia Leĝdona Asembleo"
+      fr: "Assemblée législative nationale"
+      nl: "Nationale Wetgevende Vergadering"
+      no: "Nasjonal lovgivende forsamling"
+  - id: "cs"
+    electionDates:
+    - "2026-12-22"
+    properNames:
+      en: "Council of States"
+    translatedNames:
+      de: "Rat der Staaten"
+      eo: "Konsilio de Ŝtatoj"
+      fr: "Conseil des États"
+      nl: "Raad van Staten"
+      no: "Statsforsamlingen"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "2010-04-11&2010-04-12&2010-04-13&2010-04-14&2010-04-15"
+    - "2026-12-22"
+    properNames:
+      en: "President"
+    translatedNames:
+      de: "Präsident"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
+  translations:
+    de: "Südsudan"
+    en: "South Sudan"
+    eo: "Sud-Sudano"
+    fr: "Soudan du Sud"
+    nl: "Zuid-Soedan"
+    no: "Sør-Sudan"
 - areaCode: "st"
   electedBodies:
   - id: "na"
